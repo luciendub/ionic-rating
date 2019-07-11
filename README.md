@@ -2,6 +2,10 @@
 
 A native Ionic 4 rating stars component forked from [ionic-rating](https://www.npmjs.com/package/ionic-rating) to support new Ionic 4 components.
 
+## Why this fork ?
+
+To be able to change the icon.
+
 ## How to install?
 
 `npm i ionic4-rating`
@@ -107,3 +111,5 @@ rating {
 
 &#9400; Rodaina Mohamed 2018  
 Updated by Lincon Dias 2019 to Ionic 4
+
+
